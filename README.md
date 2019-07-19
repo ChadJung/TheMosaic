@@ -1,2 +1,2 @@
 # TheMosaic
-CNN Face Classification
+Face Classification Using CNN, VGG, Resnet
